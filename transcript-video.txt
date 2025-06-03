@@ -1,0 +1,62 @@
+0:04
+AWS Skill Builder is taking your exam
+0:07
+prep experience to new heights
+0:09
+with AWS Escape Room Exam Prep for Certified AI Practitioner.
+0:15
+Travel through the cosmos with Cloudia
+0:17
+and try to escape from Mr. Gorilla's
+0:19
+intergalactic coffee shop using AWS and AI knowledge.
+0:24
+Navigate through unique areas and meet interesting characters
+0:28
+by answering exam style questions,
+0:30
+solving puzzles, and building real world AI solutions on AWS.
+0:36
+Harness the power of AI to unlock rooms,
+0:39
+gather clues, and uncover the story.
+0:42
+With 22 exam style questions, 6 hands on labs,
+0:47
+28 quizzes and 19 AI focused AWS puzzles,
+0:52
+AWS Escape Room will help you evaluate your knowledge and equip you with
+0:56
+the skills needed to prepare for the AWS certified AI practitioner exam.
+1:02
+AWS Escape Room is 100%
+1:05
+aligned with all certified AI practitioner exam topics,
+1:10
+covering Fundamental AI/ML concepts,
+1:13
+Fundamentals of Generative AI,
+1:15
+Applications of Foundation Models,
+1:18
+Guidelines for Responsible AI
+1:20
+and Security, Compliance and Governance of AI Solutions.
+1:25
+You can play solo at your own pace,
+1:28
+or compete against a friend in event mode
+1:30
+for bragging rights on the leaderboard.
+1:33
+So, get ready to put your wits and AWS skills to the test.
+1:37
+Embark on this space odyssey to prepare for the
+1:41
+AWS Certified AI Practitioner Exam.
+1:44
+(AIF-C01)
+1:47
+Go to skillbuilders.aws to start AWS Escape Room.
+1:52
+Exam Prep for AWS Certified AI Practitioner today!
